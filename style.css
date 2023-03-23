@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: arial;
-  background-color: rgb(222, 255, 244);
+  background-color: rgb(249, 255, 219);
 }
 p {
   margin: 0;
@@ -10,7 +10,7 @@ p {
   width: 100%;
   height: 5vh;
   vertical-align: top;
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(218, 44, 44);
   line-height: 5vh;
 }
 .navbar-text {
@@ -33,7 +33,7 @@ header li {
   cursor: pointer;
 }
 header li:hover {
-  background-color: rgb(224, 0, 0);
+  background-color: rgb(222, 59, 59);
   color: white;
 }
 .canli-tv-div {
