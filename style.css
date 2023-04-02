@@ -1,7 +1,8 @@
 body {
   margin: 0;
   font-family: arial;
-  background-color: rgb(249, 255, 219);
+  /*background-color: rgb(249, 255, 219);*/
+  background-color: azure;
 }
 header a {
   text-decoration: none;
@@ -51,7 +52,7 @@ header li:active {
   height: fit-content;
   margin: auto;
   margin-top: 150px;
-  background-color: white;
+  background-color: rgb(172, 172, 172);
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 10px;
@@ -59,7 +60,7 @@ header li:active {
   border-radius: 20px;
 }
 .canli-tv-div-text {
-  color: rgb(124, 255, 211);
+  color: rgb(77, 77, 77);
   font-weight: bold;
   font-size: 30px;
   margin-bottom: 2vh;
